@@ -1,16 +1,96 @@
-# React + Vite
+# Elementum
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive landing page built with **React**, **Tailwind CSS**, and **Motion** animations. Elementum showcases a clean and engaging user interface inspired by a professional Figma design, featuring smooth interactions, custom typography, responsive layouts, and visually appealing sections.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 **Live Website:** https://your-live-demo-link.com
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Pixel-perfect Figma-inspired design
+* Fully responsive across desktop, tablet, and mobile devices
+* Smooth animations using Motion
+* Custom Gerbil typography
+* Interactive navigation menu
+* Hero section with decorative elements
+* Services showcase section
+* Testimonials section
+* Newsletter subscription footer
+* Modern UI/UX design principles
 
-## Expanding the ESLint configuration
+## 🛠️ Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React
+* Tailwind CSS
+* Motion
+* JavaScript (ES6+)
+
+## 📂 Project Structure
+
+```bash
+src/
+├── components/
+│   ├── Navbar.jsx
+│   ├── Hero.jsx
+│   ├── Services.jsx
+│   ├── CaseStudies.jsx
+│   ├── Testimonials.jsx
+│   └── Footer.jsx
+│
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/elementum.git
+```
+
+Navigate into the project:
+
+```bash
+cd elementum
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## 🎨 Design Highlights
+
+* Custom Gerbil font integration
+* Responsive layouts using Tailwind CSS
+* Decorative SVG elements and illustrations
+* Interactive hover effects
+* Smooth transitions and animations
+* Optimized visual hierarchy
+
+## 📱 Responsive Design
+
+Elementum is optimized for:
+
+* Desktop
+* Laptop
+* Tablet
+* Mobile Devices
+
+## 📄 License
+
+This project is intended for educational and portfolio purposes.
+
+## 👨‍💻 Author
+
+Built by **Kundan10424**
